@@ -1,0 +1,9 @@
+package com.example.desarrollo.demo.component;
+
+@Component
+public class PacienteComponent {
+
+    public void hola(String var)
+        System,out.println("Hola ¿como estan?"+ var);
+    
+}
